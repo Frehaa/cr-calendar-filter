@@ -5,6 +5,7 @@
 // @description  Filters away all the dub announcements in the release calendar to make it more readable
 // @author       Frederik Haagensen
 // @match        https://www.crunchyroll.com/simulcastcalendar
+// @match        https://www.crunchyroll.com/simulcastcalendar?*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=crunchyroll.com
 // @grant        none
 // ==/UserScript==
